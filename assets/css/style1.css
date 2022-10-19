@@ -1,0 +1,74 @@
+body{
+    margin: 0;  
+    padding: 0;  
+    font-family:'Times New Roman', Times, serif;
+    background-image:url(back1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 1px;
+    margin: 0 auto;
+  }
+   
+.login{
+    
+    width: 382px;  
+    overflow:hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background:rgb(255, 255, 255);  
+    border-radius: 0px ;  
+    opacity: 0.8;
+    margin-bottom: 10%;
+}
+h1{  
+    text-align: center;  
+    color:black;  
+    padding: 10px; 
+    
+    
+}  
+label{  
+    color: black;  
+    font-size: 18px;  
+    font-family:Cursive;
+	font-size:19px;
+	font-weight:bold;
+    
+}  
+#name{  
+    width: 300px;  
+    height: 30px;  
+    border: 2px solid black;  
+    border-radius: 3px;  
+    padding-left: 8px; 
+     
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: 2px solid black;
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#login{  
+    margin-top: 30px; 
+    width: 300px;
+    height: 40px;  
+    border: none;  
+    border-radius: 17px;  
+    justify-content: center;
+    color: black; 
+    background-color:#ffc477;
+    box-shadow:inset 0px 1px 0px 0px #fce2c1;
+    cursor:pointer;
+    font-family:'Times New Roman', Times, serif;
+	font-size:19px;
+	font-weight:bold;
+  
+}  
+span{  
+    color: rgb(255, 255, 255);  
+    font-size: 17px;  
+}  
