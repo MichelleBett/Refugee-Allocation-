@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect("localhost","root","","refapp");
+$db = mysqli_connect("localhost","root","r00tPass","refapp");
 
 if(!$db)
 {
